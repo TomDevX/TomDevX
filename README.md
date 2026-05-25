@@ -9,25 +9,13 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=TomDevX&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=TomDevX&show_icons=true&include_all_commits=true&hide_border=true&theme=default" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TomDevX&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TomDevX&hide_border=true&theme=github-dark-blue" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=TomDevX&hide_border=true&theme=default" />
-    <img src="https://streak-stats.demolab.com?user=TomDevX&hide_border=true&theme=default" alt="Contributions & Commit Streak" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=default" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TomDevX&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=58a6ff" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=TomDevX&hide_border=true&theme=dark&background=000000" alt="Contributions & Commit Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center"><sub>Stats cards use a community mirror endpoint to reduce upstream rate-limit fetch errors.</sub></p>
 
 <p align="center"><sub>Optional WakaTime card: replace <code>YOUR_WAKATIME_USERNAME</code> in the template below to enable it.</sub></p>
 
-<!-- <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&hide_border=true&theme=default" alt="WakaTime Stats" /></p> -->
+<!-- <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="WakaTime Stats" /></p> -->
