@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/TomDevX?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/TomDevX?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
   <img src="https://img.shields.io/badge/Public%20Repos-available%20in%20stats%20card-2ea44f?style=for-the-badge&logo=github" alt="Public Repos" />
-  <img src="https://img.shields.io/github/commit-activity/y/TomDevX/TomDevX?style=for-the-badge&logo=git&label=Commits%2FYear" alt="Commits per Year" />
+  <img src="https://img.shields.io/badge/Commits-available%20in%20stats%20card-2ea44f?style=for-the-badge&logo=git" alt="Commits" />
   <img src="https://img.shields.io/badge/Contributions-available%20in%20stats%20card-2ea44f?style=for-the-badge&logo=github" alt="Contributions" />
 </p>
 
