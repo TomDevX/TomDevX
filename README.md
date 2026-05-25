@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=TomDevX&style=for-the-badge&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/TomDevX?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/TomDevX?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-count/TomDevX?style=for-the-badge&logo=github&label=Public%20Repos" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTomDevX&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos" alt="Public Repos" />
 </p>
 
 <p align="center">
