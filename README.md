@@ -14,4 +14,5 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
 </p>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
