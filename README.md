@@ -14,8 +14,4 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
 </p>
 
-<p align="center"><sub>Stats cards use a community mirror endpoint to reduce upstream rate-limit fetch errors.</sub></p>
-
-<p align="center"><sub>Optional WakaTime card: replace <code>YOUR_WAKATIME_USERNAME</code> in the template below to enable it.</sub></p>
-
-<!-- <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=TomDev&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="WakaTime Stats" /></p> -->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
