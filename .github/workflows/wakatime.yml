@@ -17,7 +17,6 @@ jobs:
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TITLE_TEXT: 📊 My coding time in last week
           SHOW_TITLE: true
           SECTION_NAME: wakatime
           BLOCKS: ░▒▓█
@@ -25,4 +24,3 @@ jobs:
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SHOW_DAYS_OF_WEEK: true
