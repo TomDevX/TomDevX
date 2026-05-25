@@ -14,4 +14,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 </p>
 
+<p align="center"><sub>Stats cards use a community mirror endpoint to reduce upstream rate-limit fetch errors.</sub></p>
+
 <p align="center"><sub>Top Languages replaces WakaTime so no extra setup is required.</sub></p>
