@@ -9,11 +9,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TomDevX&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TomDevX&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&bg_color=00000000" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=TomDevX&hide_border=true&theme=transparent&background=00000000" alt="Contributions & Commit Streak" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=transparent&bg_color=00000000" alt="Top Languages" />
 </p>
 
 <p align="center"><sub>Stats cards use a community mirror endpoint to reduce upstream rate-limit fetch errors.</sub></p>
 
-<p align="center"><sub>Top Languages replaces WakaTime so no extra setup is required.</sub></p>
+<p align="center"><sub>Optional WakaTime card: replace <code>YOUR_WAKATIME_USERNAME</code> in the template below to enable it.</sub></p>
+
+<!-- <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&hide_border=true&theme=transparent&bg_color=00000000" alt="WakaTime Stats" /></p> -->
