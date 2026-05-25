@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomDevX&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=TomDevX&hide_border=true" alt="Contributions & Commit Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomDevX&layout=compact&hide_border=true" alt="Coding Time (WakaTime)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TomDevX&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=TomDevX&hide_border=true&theme=transparent&background=00000000" alt="Contributions & Commit Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 </p>
 
-<p align="center"><sub>WakaTime card may not display until your WakaTime profile is public and linked. Setup guide: <a href="https://wakatime.com/faq">WakaTime FAQ</a>.</sub></p>
+<p align="center"><sub>Top Languages replaces WakaTime so no extra setup is required.</sub></p>
