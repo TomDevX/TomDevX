@@ -14,4 +14,4 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomDevX&layout=compact&hide_border=true" alt="Coding Time (WakaTime)" />
 </p>
 
-<p align="center"><sub>WakaTime card requires a public profile. Setup guide: <a href="https://wakatime.com/faq">WakaTime FAQ</a>.</sub></p>
+<p align="center"><sub>WakaTime card may not display until your WakaTime profile is public and linked. Setup guide: <a href="https://wakatime.com/faq">WakaTime FAQ</a>.</sub></p>
