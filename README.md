@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Tom 👋</h1>
-<p align="center">Welcome to my GitHub profile.</p>
+<h1 align="center">Hi! I'm Tom 👋</h1>
+<p align="center">A high school competitive programmer interested in technology, computers and especially cybersecurity </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TomDevX&style=for-the-badge&color=blue" alt="Profile Views" />
@@ -14,6 +14,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
 </p>
 
+# 📊 My coding time last week 📊
 <!--START_SECTION:wakatime-->
 
 ```txt
