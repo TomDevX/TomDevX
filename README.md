@@ -58,3 +58,5 @@ No activity tracked
   </a>
   <a href="mailto:hoangquan0111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?repeat=false&backgroundColor=%230d1117&border=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Thanks+for+reading%21%22%2C%22font%22%3A%22Comic+Sans%22%2C%22color%22%3A%22%23ff69b4%22%2C%22letterSpacing%22%3A%220.05em%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
