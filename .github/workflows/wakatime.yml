@@ -1,4 +1,4 @@
-name: WakaTime Readme Update
+name: Hackatime Readme Update
 
 on:
   schedule:
@@ -7,17 +7,19 @@ on:
 
 jobs:
   update-readme:
-    name: Update WakaTime Stats
+    name: Update Hackatime Stats
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update WakaTime in README
+      - name: Update Hackatime in README
         uses: athul/waka-readme@master
+        env:
+          # Ép action gọi tới server Hackatime của Hack Club thay vì WakaTime mặc định
+          WAKATIME_API_URL: https://hackatime.hackclub.com/api/hackatime/v1
         with:
           WAKATIME_API_KEY: ${{ secrets.HACKATIME_API_KEY }}
-          WAKATIME_API_URL: https://hackatime.hackclub.com/api/hackatime/v1
           SHOW_TITLE: true
           SECTION_NAME: wakatime
           BLOCKS: ░▒▓█
