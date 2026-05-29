@@ -1,4 +1,4 @@
-name: Hackatime Readme Update
+name: WakaTime Readme Update
 
 on:
   schedule:
@@ -7,13 +7,16 @@ on:
 
 jobs:
   update-readme:
-    name: Update Hackatime Stats
+    name: Update WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update WakaTime in README
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.HACKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_URL: https://hackatime.hackclub.com/api/hackatime/v1
           SHOW_TITLE: true
           SECTION_NAME: wakatime
