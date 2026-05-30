@@ -2,7 +2,7 @@ name: WakaTime Readme Update
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: "0 */6 * * *" 
   workflow_dispatch:
 
 jobs:
@@ -24,3 +24,16 @@ jobs:
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: true
+
+      - name: Append Last Update Footnote
+        env:
+          TZ: "Asia/Ho_Chi_Minh"
+        run: |
+          sed -i '/last update:/I d' README.md
+          
+          echo -e "\n<sub>_This readme updates every 6 hours - last update: $(date +'%Y-%m-%d %H:%M:%S') (GMT+7)_</sub>" >> README.md
+          
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "docs: update footnote time" || exit 0
+          git push
