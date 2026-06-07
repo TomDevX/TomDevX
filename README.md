@@ -23,15 +23,14 @@
 <!--START_SECTION:wakatime-->
 
 ```txt
-From: 29 May 2026 - To: 05 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Total Time: 26 hrs 12 mins
+Total Time: 20 hrs 28 mins
 
-C++     25 hrs 53 mins        ████████████████████████▓   98.12 %
-JSON    13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Other   10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-INI     4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-YAML    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++     20 hrs 21 mins        ████████████████████████▓   99.05 %
+JSON    5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Other   5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+INI     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:wakatime-->
