@@ -23,15 +23,15 @@
 <!--START_SECTION:wakatime-->
 
 ```txt
-From: 09 June 2026 - To: 16 June 2026
+From: 10 June 2026 - To: 17 June 2026
 
-Total Time: 25 hrs 30 mins
+Total Time: 27 hrs 59 mins
 
-C++      18 hrs 54 mins        ██████████████████▒░░░░░░   73.41 %
-C        4 hrs 58 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
-JSON     1 hr 9 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-YAML     15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Other    14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+C++      20 hrs 43 mins        ██████████████████▒░░░░░░   73.43 %
+C        5 hrs 24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
+JSON     1 hr 22 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+YAML     17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Other    13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:wakatime-->
