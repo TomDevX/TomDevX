@@ -51,7 +51,7 @@ Other      3 mins                ░░░░░░░░░░░░░░░�
 ## 🔄 Current Focus
 *   **🔭 Working on:** [CP-Archive](https://github.com/TomDevX/CP-Archive) — Part of my CP journey in a repo!
 *   **📚 Learning:** Competitive Programming & Tech techniques
-*   **⚡ Fun Fact:** I love dogs
+*   **⚡ Fun Fact:** I love dogs, and even Umamusume (but I'm not playing the game)
 
 ---
 
