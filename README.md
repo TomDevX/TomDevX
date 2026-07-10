@@ -23,14 +23,12 @@
 <!--START_SECTION:wakatime-->
 
 ```txt
-From: 01 July 2026 - To: 08 July 2026
+From: 02 July 2026 - To: 09 July 2026
 
-Total Time: 5 hrs 52 mins
+Total Time: 4 hrs 58 mins
 
-C++        5 hrs 51 mins         █████████████████████████   99.63 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C++     4 hrs 57 mins         █████████████████████████   99.66 %
+Other   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:wakatime-->
