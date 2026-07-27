@@ -23,15 +23,15 @@
 <!--START_SECTION:wakatime-->
 
 ```txt
-From: 18 July 2026 - To: 25 July 2026
+From: 19 July 2026 - To: 26 July 2026
 
-Total Time: 14 hrs 32 mins
+Total Time: 10 hrs 24 mins
 
-C++           7 hrs 37 mins         █████████████░░░░░░░░░░░░   52.35 %
-JavaScript    2 hrs 22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
-Markdown      1 hr 49 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-C             49 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-JSON          31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+C++           6 hrs 25 mins         ███████████████▒░░░░░░░░░   61.53 %
+Markdown      1 hr 49 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+C             49 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Python        24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+INI           24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
 ```
 
 <!--END_SECTION:wakatime-->
