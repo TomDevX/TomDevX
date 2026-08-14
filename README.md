@@ -23,13 +23,13 @@
 <!--START_SECTION:wakatime-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-Total Time: 3 hrs 34 mins
+Total Time: 3 hrs 45 mins
 
-C++     3 hrs 33 mins         ███████████████████████░░   91.60 %
-Other   11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-JSON    7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+C++     3 hrs 40 mins         ██████████████████████▓░░   90.48 %
+Other   11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+JSON    10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 YAML    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
