@@ -49,9 +49,9 @@ Markdown      4 mins                ░░░░░░░░░░░░░░�
 ---
 
 ## 🔄 Current Focus
-*   **🔭 Working on:** [CP-Archive](https://github.com/TomDevX/CP-Archive) — Part of my CP journey in a repo!
-*   **📚 Learning:** Competitive Programming & Tech techniques
-*   **⚡ Fun Fact:** I love dogs, and even Umamusume (but I'm not playing the game)
+*   **🔭 Working on:** Making projects and learn more about dev + sec
+*   **📚 Learning:** Developing valuable tools & CyberSec
+*   **⚡ Fun Fact:** I love dogs, and even Umamusume (but I'm not playing the game). I'm also an ambivert so just chill out.
 
 ---
 
