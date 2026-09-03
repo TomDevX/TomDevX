@@ -1,5 +1,4 @@
-# Hi there, I'm Tom 👋
-**"A Vietnamese high schooler who is interested in computer science, especially cybersecurity and developing stuff"**
+![Header](/Banner/github.png)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TomDevX&style=for-the-badge&color=blue" alt="Profile Views" />
