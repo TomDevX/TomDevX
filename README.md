@@ -22,15 +22,15 @@
 <!--START_SECTION:wakatime-->
 
 ```txt
-From: 28 August 2026 - To: 04 September 2026
+From: 29 August 2026 - To: 05 September 2026
 
-Total Time: 13 hrs 2 mins
+Total Time: 14 hrs 5 mins
 
-C++           7 hrs 46 mins         ██████████████░░░░░░░░░░░   56.40 %
-Objective-C   2 hrs 45 mins         █████░░░░░░░░░░░░░░░░░░░░   19.98 %
-INI           1 hr 56 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-Other         43 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-HTML          27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+C++           6 hrs 48 mins         ███████████▒░░░░░░░░░░░░░   44.87 %
+Objective-C   4 hrs 27 mins         ███████▒░░░░░░░░░░░░░░░░░   29.38 %
+C             1 hr 18 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Other         1 hr 3 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+INI           1 hr 3 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
 ```
 
 <!--END_SECTION:wakatime-->
