@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://tomdevx-stats.vercel.app/api?username=TomDevX&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=58a6ff" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=TomDevX&hide_border=true&theme=dark&background=000000" alt="Contributions & Commit Streak" />
+  <img src="https://tomdev-streak-stats.vercel.app/?user=TomDevX&hide_border=true&theme=dark&background=000000" alt="Contributions & Commit Streak" />
   <img src="https://tomdevx-stats.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
 </p>
 
