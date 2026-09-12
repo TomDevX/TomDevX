@@ -82,7 +82,7 @@ C++           27 mins               ██░░░░░░░░░░░░�
   </a>
   <br>
   <a href="https://github.com/TomDevX.gpg" target="_blank">
-    <img src="https://img.shields.io/badge/GPG%20key-3C4838BBA73FF540-0d1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="GPG Public Key"/>
+    <img src="https://img.shields.io/badge/GPG%20Key-3C4838BBA73FF540-E3B341?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="GPG Public Key"/>
   </a>
 </p>
 
