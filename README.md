@@ -13,7 +13,7 @@
 
 * 🔭 **Current Focus:** Building practical tech projects, hardware hacking/customization, DIY & studying Cybersec (CTF).
 * 🧠 **Interests:** Psychology, personal growth, guitar, basketball, device exploiting - customizing - automating, DIY, competitive programming, and Umamusume (the lore/anime, not gacha).
-* ⚡ **Fun Fact:** Ambivert and love animals. Mainly type with 2 fingers <sub><a href="https://monkeytype.com/profile/TomDev" target="_blank"><img src="https://img.shields.io/badge/-%20-E2B714?style=flat-square&logo=monkeytype&logoColor=111111" alt="Monkeytype" height="14" valign="middle"/></a></sub>. Former competitive programmer for national contests before pivoting — archived the journey at [CP-Archive](https://github.com/TomDevX/CP-Archive).
+* ⚡ **Fun Fact:** Ambivert and love animals. Only type with 2 fingers <sub><a href="https://monkeytype.com/profile/TomDev" target="_blank"><img src="https://img.shields.io/badge/-%20-E2B714?style=flat-square&logo=monkeytype&logoColor=111111" alt="Monkeytype" height="14" valign="middle"/></a></sub>. Former competitive programmer for national contests before pivoting — archived the journey at [CP-Archive](https://github.com/TomDevX/CP-Archive).
 
 ---
 
