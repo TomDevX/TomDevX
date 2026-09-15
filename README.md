@@ -40,14 +40,15 @@
 <!--START_SECTION:wakatime-->
 
 ```txt
-From: 07 September 2026 - To: 14 September 2026
+From: 08 September 2026 - To: 15 September 2026
 
-Total Time: 1 hr 44 mins
+Total Time: 1 hr 51 mins
 
-HTML    1 hr 6 mins           ███████████▓░░░░░░░░░░░░░   46.09 %
-C++     39 mins               ███████░░░░░░░░░░░░░░░░░░   27.51 %
-Other   29 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-INI     8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+HTML       54 mins               ███████████░░░░░░░░░░░░░░   44.43 %
+C++        40 mins               ████████░░░░░░░░░░░░░░░░░   32.58 %
+Other      11 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Markdown   8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+INI        8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
 ```
 
 <!--END_SECTION:wakatime-->
