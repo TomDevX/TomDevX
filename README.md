@@ -11,9 +11,13 @@
 
 ## 🧭 About Me & Focus
 
+<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img align="right" src="https://typingsvg.vercel.app/api/svg?width=410&height=180&repeat=false&backgroundColor=%2321262d&backgroundOpacity=0&center=false&vCenter=false&border=false&cursorStyle=block&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22%24+whoami%22%2C%22font%22%3A%22Jetbrains+Mono%22%2C%22color%22%3A%22%2366cc00%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.5%2C%22fontWeight%22%3A%22300%22%7D%2C%7B%22text%22%3A%22TomDev+%28a.k.a+TomDevX%29%22%2C%22font%22%3A%22Jetbrains+Mono%22%2C%22color%22%3A%22%2366cc00%22%2C%22typingSpeed%22%3A0.0005%2C%22fontWeight%22%3A%22300%22%7D%2C%7B%22text%22%3A%22%24+cat+about_me.md%22%2C%22font%22%3A%22Jetbrains+Mono%22%2C%22color%22%3A%22%2366cc00%22%2C%22typingSpeed%22%3A0.14285714285714285%2C%22fontWeight%22%3A%22300%22%7D%2C%7B%22text%22%3A%22Learn.+Build.+Enjoy%21%22%2C%22font%22%3A%22Jetbrains+Mono%22%2C%22color%22%3A%22%2366cc00%22%2C%22typingSpeed%22%3A0.0005%2C%22fontWeight%22%3A%22300%22%7D%5D" alt="Typing SVG" /></a>
+
 * 🔭 **Current Focus:** Building practical tech projects, hardware hacking/customization, DIY & studying Cybersec (CTF).
 * 🧠 **Interests:** Psychology, personal growth, guitar, basketball, device exploiting - customizing - automating, DIY, competitive programming, and Umamusume (the lore/anime, not gacha).
 * ⚡ **Fun Fact:** Ambivert and love animals. Only type with 2 fingers <sub><a href="https://monkeytype.com/profile/TomDev" target="_blank"><img src="https://img.shields.io/badge/-%20-E2B714?style=flat-square&logo=monkeytype&logoColor=111111" alt="Monkeytype" height="14" valign="middle"/></a></sub>. Former competitive programmer for national contests before pivoting — archived the journey at [CP-Archive](https://github.com/TomDevX/CP-Archive).
+
+<br clear="both"/>
 
 ---
 
