@@ -111,22 +111,3 @@ INI        8 mins                █▓░░░░░░░░░░░░░�
     <img src="https://img.shields.io/badge/GPG%20Key-3C4838BBA73FF540-E3B341?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="GPG Public Key"/>
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<sub>_This readme updates every 6 hours - last update: 2026-09-16 18:07:03 (GMT+7)_</sub>
