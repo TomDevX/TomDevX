@@ -36,12 +36,17 @@
 
 <p align="center">
   <img src="https://tomdevx-stats.vercel.app/api?username=TomDevX&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=58a6ff" alt="GitHub Stats" />
+  <!-- 
   <img src="https://tomdev-streak-stats.vercel.app/?user=TomDevX&hide_border=true&theme=dark&background=000000" alt="Contributions & Commit Streak" />
   <img src="https://tomdevx-stats.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
+  -->
 </p>
 
-### 🕒 My Coding Activity
+<!-- ### 🕒 View Coding Activity -->
+  
 <!--START_SECTION:wakatime-->
+
+<!--
 
 ```txt
 From: 08 September 2026 - To: 15 September 2026
@@ -54,6 +59,7 @@ Other      11 mins               ██▒░░░░░░░░░░░░�
 Markdown   8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
 INI        8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
 ```
+-->
 
 <!--END_SECTION:wakatime-->
 
@@ -87,7 +93,7 @@ INI        8 mins                █▓░░░░░░░░░░░░░�
 </p>
 
 
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?repeat=false&backgroundColor=%230d1117&border=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Thanks+for+reading%21%22%2C%22font%22%3A%22Comic+Sans%22%2C%22color%22%3A%22%23ff69b4%22%2C%22letterSpacing%22%3A%220.05em%22%2C%22typingSpeed%22%3A0.3%2C%22deleteSpeed%22%3A0.05%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+
 
 
 
