@@ -1,7 +1,7 @@
 ![Header](/Banner/github.png)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TomDevX&style=for-the-badge&color=blue" alt="Profile Views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=TomDevX&style=for-the-badge&color=blue" alt="Profile Views" /> -->
   <img src="https://img.shields.io/github/followers/TomDevX?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/TomDevX?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTomDevX&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos" alt="Public Repos" />
@@ -19,6 +19,7 @@
 
 <br clear="both"/>
 
+<!--
 ---
 
 ## 🛠️ Tech Stack & Toolkit
@@ -30,17 +31,36 @@
 | **Environment** | ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white) ![Fish Shell](https://img.shields.io/badge/Fish_Shell-4395A3?style=for-the-badge&logo=fishshell&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
 | **Embedded & IoT** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7300?style=for-the-badge&logo=platformio&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 
+-->
+
+---
+
+## 🛠️ Stack & Toolkit
+
+![C/C++](https://img.shields.io/badge/C/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7300?style=flat-square&logo=platformio&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![KDE Plasma](https://img.shields.io/badge/KDE-1D99F3?style=flat-square&logo=kde&logoColor=white)
+![Fish Shell](https://img.shields.io/badge/Fish_Shell-4395A3?style=flat-square&logo=fishshell&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+<!--
+
 ---
 
 ## 📊 Git & Coding Metrics
 
 <p align="center">
   <img src="https://tomdevx-stats.vercel.app/api?username=TomDevX&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=58a6ff" alt="GitHub Stats" />
-  <!-- 
   <img src="https://tomdev-streak-stats.vercel.app/?user=TomDevX&hide_border=true&theme=dark&background=000000" alt="Contributions & Commit Streak" />
   <img src="https://tomdevx-stats.vercel.app/api/top-langs/?username=TomDevX&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
-  -->
 </p>
+
+-->
 
 <!-- ### 🕒 View Coding Activity -->
   
