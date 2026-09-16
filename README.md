@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTomDevX&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos" alt="Public Repos" />
 </p>
 
----
-
 ## 🧭 About Me & Focus
 
 <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img align="right" src="https://typingsvg.vercel.app/api/svg?width=280&repeat=false&backgroundColor=%2321262d&center=false&cursorStyle=block&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22%24+whoami%22%2C%22font%22%3A%22Jetbrains+Mono%22%2C%22color%22%3A%22%2366cc00%22%2C%22fontSize%22%3A16%2C%22typingSpeed%22%3A0.16666666666666666%2C%22fontWeight%22%3A%22300%22%2C%22lineHeight%22%3A1.5%7D%2C%7B%22text%22%3A%22TomDev+%28a.k.a+TomDevX%29%22%2C%22font%22%3A%22Jetbrains+Mono%22%2C%22color%22%3A%22%2366cc00%22%2C%22fontSize%22%3A16%2C%22typingSpeed%22%3A0.0005%2C%22fontWeight%22%3A%22300%22%2C%22lineHeight%22%3A1.5%7D%2C%7B%22text%22%3A%22%24+cat+%2Fetc%2Fmotd%22%2C%22font%22%3A%22Jetbrains+Mono%22%2C%22color%22%3A%22%2366cc00%22%2C%22fontSize%22%3A16%2C%22typingSpeed%22%3A0.14285714285714285%2C%22fontWeight%22%3A%22300%22%2C%22lineHeight%22%3A1.5%7D%2C%7B%22text%22%3A%22Learn.+Build.+Enjoy%21%22%2C%22font%22%3A%22Jetbrains+Mono%22%2C%22color%22%3A%22%2366cc00%22%2C%22fontSize%22%3A16%2C%22typingSpeed%22%3A0.0005%2C%22fontWeight%22%3A%22300%22%2C%22lineHeight%22%3A1.5%7D%5D" alt="Typing SVG" /></a>
@@ -32,8 +30,6 @@
 | **Embedded & IoT** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7300?style=for-the-badge&logo=platformio&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 
 -->
-
----
 
 ## 🛠️ Stack & Toolkit
 
@@ -83,31 +79,16 @@ INI        8 mins                █▓░░░░░░░░░░░░░�
 
 <!--END_SECTION:wakatime-->
 
----
-
 ## 🤝 Connect with Me
+
 <p align="left">
-  <a href="https://facebook.com/tomdevx" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://discord.com/users/1188052787116900434" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:hoangquan0111@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <a href="https://facebook.com/tomdevx" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://discord.com/users/1188052787116900434" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="mailto:hoangquan0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <br>
-    <a href="https://codeforces.com/profile/TomDev" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-TomDev-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://leetcode.com/u/TomDevX" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-TomDevX-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://clist.by/coder/TomDev" target="_blank">
-    <img src="https://img.shields.io/badge/clist.by-TomDev-2E7D32?style=for-the-badge&logo=c&logoColor=white" alt="clist.by"/>
-  </a>
+  <a href="https://codeforces.com/profile/TomDev" target="_blank"><img src="https://img.shields.io/badge/Codeforces-TomDev-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/u/TomDevX" target="_blank"><img src="https://img.shields.io/badge/LeetCode-TomDevX-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://clist.by/coder/TomDev" target="_blank"><img src="https://img.shields.io/badge/clist.by-TomDev-2E7D32?style=for-the-badge&logo=c&logoColor=white" alt="clist.by"/></a>
   <br>
-  <a href="https://github.com/TomDevX.gpg" target="_blank">
-    <img src="https://img.shields.io/badge/GPG%20Key-3C4838BBA73FF540-E3B341?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="GPG Public Key"/>
-  </a>
+  <a href="https://github.com/TomDevX.gpg" target="_blank"><img src="https://img.shields.io/badge/GPG%20Key-3C4838BBA73FF540-E3B341?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="GPG Public Key"/></a>
 </p>
